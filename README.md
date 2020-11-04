@@ -1,15 +1,17 @@
 ### Hi there, I'm Ashay :handshake:
 
-## I'm a Developer, Intern ,and a Human Being!:innocent:
 
+## I'm a Developer and a Human Being!:innocent:
 - 🔭 I’m currently working on a Machine Learning projects
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other developers and content creators
 - 🥅 2020 Goals: Learn new technologies and do more project.
 - ⚡ Fun fact: I love to draw and play video games.
 
+
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/6qSz3wGYu5bEqZ064MlN2u)
+
+[<img src="https://spotify-now-playing-zeta-topaz.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/playlist/6qSz3wGYu5bEqZ064MlN2u)
 
 ### Connect with me:
 
@@ -59,11 +61,15 @@
 <br />
 <br />
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashaymishra&repo=Gadget-Mania)](https://github.com/ASHAYMISHRA/Gadget-Mania)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashaymishra&repo=checkyourmail)](https://github.com/ASHAYMISHRA/checkyourmail)
+
 ---
 <!-- [![Ashay's github stats](https://github-readme-stats.vercel.app/api?username=ASHAYMISHRA)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHAYMISHRA&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHAYMISHRA&hide)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
