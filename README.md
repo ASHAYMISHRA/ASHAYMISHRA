@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Machine Learning projects
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other developers and content creators
-- 🥅 2020 Goals: Learn new technologies and do more project.
+- 🥅 2021Goals: Learn new technologies and do more project.
 - ⚡ Fun fact: I love to draw and play video games.
 
 
