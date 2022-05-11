@@ -68,6 +68,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashaymishra)](https://github.com/ASHAYMISHRA/Cyclistic-Case-Study)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <!-- [![Ashay's github stats](https://github-readme-stats.vercel.app/api?username=ASHAYMISHRA)](https://github.com/anuraghazra/github-readme-stats) -->
 
