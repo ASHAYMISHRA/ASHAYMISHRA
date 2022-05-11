@@ -1,6 +1,4 @@
 
-<!-- head -->
-<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
 ### Hi there, I'm Ashay :handshake:
 
 
@@ -64,14 +62,12 @@
 <br />
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashaymishra&repo=Gadget-Mania)](https://github.com/ASHAYMISHRA/Gadget-Mania)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashaymishra)](https://github.com/ASHAYMISHRA/Gadget-Mania)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashaymishra&repo=checkyourmail)](https://github.com/ASHAYMISHRA/checkyourmail)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashaymishra)](https://github.com/ASHAYMISHRA/checkyourmail)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashaymishra&repo=Cyclistic-Case-Study)](https://github.com/ASHAYMISHRA/Cyclistic-Case-Study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashaymishra)](https://github.com/ASHAYMISHRA/Cyclistic-Case-Study)
 
-<!-- inside body, where you want to create the card -->
-<div class="repo-card" data-repo="ashaymishra/Cyclistic-Case-Study"></div>
 ---
 <!-- [![Ashay's github stats](https://github-readme-stats.vercel.app/api?username=ASHAYMISHRA)](https://github.com/anuraghazra/github-readme-stats) -->
 
