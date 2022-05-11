@@ -21,7 +21,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Hackerrank" width="22px" src="https://repository-images.githubusercontent.com/253395053/f2f38a80-8182-11ea-8059-91f14f9a3274">][Hackerrank]
-
+[<img align="left" alt="Leetcode" width="22px" src="http://www.w3.org/2000/svg">][Leetcode]
 <br />
 
 ### Languages and Tools:
