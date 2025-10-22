@@ -3,11 +3,11 @@
 
 
 ## I'm a Developer and a Human Being!:innocent:
-- 🔭 I’m currently working on a Machine Learning projects
+- 🔭 I’m currently working on a Cloud Based projects
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other developers and content creators
-- 🥅 2022Goals: Learn new technologies and do more project.
-- ⚡ Fun fact: I love to draw and play video games.
+- 🥅 2025 Goals: Learn new technologies and become GEN AI Expert.
+- ⚡ Fun fact: I love to draw and play video games(sometimes).
 
 
 ### Spotify Playing 🎧
