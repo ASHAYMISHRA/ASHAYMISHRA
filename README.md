@@ -1,9 +1,9 @@
 
 
-### Hi there, I'm Ashay :handshake:
+### Hi there, I'm Ashay 👋
 
 
-## I'm a Developer and a Human Being!:innocent:
+## I'm a Developer and a Human Being!😇
 - 🔭 I’m currently working on a Cloud Based projects
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other developers and content creators
@@ -12,8 +12,7 @@
 
 
 ### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-zeta-topaz.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/playlist/6qSz3wGYu5bEqZ064MlN2u)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
 
 ### Connect with me:
 
